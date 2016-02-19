@@ -8,8 +8,8 @@ addpath Love_numbers
 load ice5g_griddata;
 %load ice5g_gl; %sam's ice grids and lat long and time
 %load LN_l120_ump5_lm5
-%load VM2_tp
-load l71Cump3lm8
+load VM2_tp
+%load l71Cump3lm8
 %load LN_l90_VM2 %this is different VM2!!
 %only replace these love numbers with sam's format
 %load VM2_sam
